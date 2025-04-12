@@ -1,0 +1,66 @@
+Data Science:
+
+      Data Science is the process of understanding hte patterns of the data
+                                                       insights of the data
+                                                       trends   of the data
+                                                       forecast of the data
+
+      Data
+          Structured       - CSV, EXcel, JSON, DB (SQL, Mongo, Oralce)
+          Un-Structured    - Image, audio , video
+          Semi-Structured  - Text file
+
+      Machine Learning is the mechansim or algorithm to find the data insight and forecast.
+
+      Python is the primary source for the machine learning algorithm
+
+Artificial Intelligence:
+
+Machine LEarning(Structure) + Deep LEarning(Un-Structure) is the same process about finding the details of the data or finding the beautiful
+insights of the data.
+
+Data Analyst or Data Analytics:
+
+Finding details about the data, projecting the data, manipulating the database to do all ETL activity.
+
+Extraction , Transformation and Learning Loading
+
+Data Science:
+
+1. Data Preprocessing
+2. Data Model (prediciton)
+3. Data MEtrics and Visulization
+
+Data Analytics:
+
+1. Data Preprocessing (ETL)
+2. Visulation and Metrics
+3. Tool : PowerBI, Tableau, SQL or ORacle
+
+Data Engineering:
+
+Data Storage, Data Renention, Data Logging, Data (pyspark, hadoop , bigdata)
+
+----------------------------------------------------------------------------------------------
+
+No - Code Data Science:
+
+AWs, Azure, and Dataikq(tool)
+
+----------------------------------------------------------------------------------------------
+
+Important Link
+
+Dataiku ---> https://www.dataiku.com/product/get-started/windows/
+Python  ---> https://www.python.org/downloads/
+             https://www.python.org/downloads/release/python-3129/    (my choice)
+
+idle   ----> default python tool for writin python code
+Pycharm ---> https://www.jetbrains.com/pycharm/download/?section=windows
+Jupyter --->
+
+Year    Price
+----------
+2000        1000
+2001        2000
+2002        3000
